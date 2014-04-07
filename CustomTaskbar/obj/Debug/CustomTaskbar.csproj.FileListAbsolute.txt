@@ -1,0 +1,11 @@
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\bin\Debug\CustomTaskbar.exe.config
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\bin\Debug\CustomTaskbar.exe
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\bin\Debug\CustomTaskbar.pdb
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\obj\Debug\CustomTaskbar.csprojResolveAssemblyReference.cache
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\obj\Debug\CustomTaskbar.Form1.resources
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\obj\Debug\CustomTaskbar.Properties.Resources.resources
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\obj\Debug\CustomTaskbar.csproj.GenerateResource.Cache
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\obj\Debug\CustomTaskbar.exe
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\obj\Debug\CustomTaskbar.pdb
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\bin\Debug\MerulaShell.dll
+C:\Users\Ghol3\Desktop\CustomTaskbar\CustomTaskbar\obj\Debug\CustomTaskbar.Form2.resources
